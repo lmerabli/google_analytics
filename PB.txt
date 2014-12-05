@@ -1,0 +1,17 @@
+Ma biche je me suis refait un petit plaisir pour t'embeter !
+L'idée ne m'était pas venu au téléphone
+
+Je peux acheter des quantité non entiere : 0.5 ; 1.3 ; etc.
+
+
+
+Meme pb d'orthographe pour le bouton "connection"
+
+
+Impossible de suppr une catégorie
+The requested URL /SiteVente/supp_categorie.php was not found on this server.
+
+
+Impossible de supprimer un type
+Parse error: parse error in C:\wamp\www\SiteVente\supp_type.php on line 18
+
